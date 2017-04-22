@@ -1,0 +1,23 @@
+{
+  "name": "week-12-hw",
+  "version": "1.0.0",
+  "description": "RCB - node.js &amp; mySQL",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelsenrtn/Bamazon"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelsenrtn/Bamazon/issues"
+  },
+  "homepage": "https://github.com/chelsenrtn/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^1.1.2",
+    "mysql": "^2.11.1"
+  }
+}
